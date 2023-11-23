@@ -4,4 +4,4 @@
 
 ```
 <hook type="before_plugin_install" src="hooks/add_swift_support.js" />
-´´´
+```
